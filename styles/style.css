@@ -135,25 +135,25 @@ nav .menu a {
 .note-box .note-card {
     width: 320px;
     padding: 24px;
+    gap: 24px;
     align-items: center;
     text-align: center;
 }
-.note-box .note-card .orange-circle {
-    position: relative;
+.note-card .orange-circle {
     width: 60px;
     height: 60px;
     background-color: #F95555;
+    background-position: center 20px;
     border-radius: 50%;
     display: flex;
-    align-items: center;
     justify-content: center;
-    margin: 0 auto 20px auto;
+    align-items: center;
 }
-/* .note-box .note-card .orange-circle img {
+.note-card .orange-circle img { */
     width: 30px;
     height: auto;
     display: block;
-} */
+}
 .note-box .note-card h3 {
     font-size: 24px;
     font-weight: 600;
