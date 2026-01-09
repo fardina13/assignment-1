@@ -161,3 +161,38 @@ nav .menu a {
     font-size: 16px;
     color: #627382;
 }
+#second-brain {
+    max-width: 1360px;
+    margin: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 60px;
+}
+/* #second-brain .second-brain-content {
+    width: 700px;
+} */
+#second-brain .second-brain-content .green {
+    font-size: 16px;
+    font-weight: 500;
+    color: #30B868;
+    margin-bottom: 16px;
+}
+#second-brain .second-brain-content h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+#second-brain .second-brain-content p {
+    font-size: 16px;
+    color: #627382;
+    line-height: 20px;
+    margin-bottom: 40px;
+}
+#second-brain .second-brain-content .points p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #001931;
+    margin-bottom: 16px;
+}
