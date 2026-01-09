@@ -169,9 +169,6 @@ nav .menu a {
     align-items: center;
     gap: 60px;
 }
-/* #second-brain .second-brain-content {
-    width: 700px;
-} */
 #second-brain .second-brain-content .green {
     font-size: 16px;
     font-weight: 500;
@@ -194,5 +191,24 @@ nav .menu a {
     font-size: 16px;
     font-weight: 500;
     color: #001931;
+    margin-bottom: 16px;
+}
+#early-access-section {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#early-access-section h3 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+#early-access-section p {
+    font-size: 16px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+#early-access-section .button4 {
     margin-bottom: 16px;
 }
